@@ -1,0 +1,1 @@
+pandoc $1.md -o $1.docx --reference-doc="Content_Template_Sample.docx"
