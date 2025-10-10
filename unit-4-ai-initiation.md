@@ -44,9 +44,9 @@ AI can help weight different factors and criteria when prioritizing social probl
 - **Resource Requirements**: Estimating costs and resources needed for various interventions
 - **Feasibility Analysis**: Assessing likelihood of successful intervention based on historical data
 
-![Problem Prioritization Matrix](https://miro.medium.com/max/1400/1*rRjBXJDXbzaYf6_r4fPdHg.png)
+![Problem Prioritization Matrix](https://www.ntaskmanager.com/wp-content/uploads/2022/08/project-prioritization-matrix.png)
 
-*Source: AI-Enhanced Decision Making for Social Good Projects*
+*Source: ntaskmanager.com*
 
 ### Block 3
 
