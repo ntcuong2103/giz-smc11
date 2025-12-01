@@ -69,7 +69,7 @@ This is where you wrap up activities and ensure lasting impact:
 
 **Theory of Change** is a simple but powerful tool that helps you think through how your project activities will lead to the changes you want to see. Think of it as a roadmap showing how you'll get from where you are now to where you want to be.
 
-![Theory of Change Framework](assets\theory-of-change.png)
+![Theory of Change Framework](assets/theory-of-change.png)
 
 ### Understanding Theory of Change in Simple Terms
 
@@ -137,7 +137,7 @@ This is the ultimate social change you're working toward:
 
 **Stakeholders** are all the people and organizations who affect or are affected by your project. Managing relationships with stakeholders is often the key to project success, especially in social good work where community support is essential.
 
-![Stakeholder Network][(assets\stakeholder.png)]
+![Stakeholder Network][(assets/stakeholder.png)]
 
 ### Types of Stakeholders (Simple Categories)
 
