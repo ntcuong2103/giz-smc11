@@ -1,16 +1,48 @@
-# Chapter 1: Foundations of AI-Driven Social Good Projects
+# Chapter 1 – Understanding and Connecting the Dots: Introduction to Social Good, AI, and Projects
 
-## Unit 1: Introduction to Social Good
+## Introduction
 
 ### Block 1
 
 Welcome to **Managing AI-Driven Social Good Projects**, a comprehensive micro-credential course designed for emerging project managers and social entrepreneurs who want to harness the transformative power of artificial intelligence for positive social impact. This course will guide you through the essential concepts, methodologies, and practical applications needed to successfully initiate, plan, execute, and evaluate social good projects that leverage AI technologies.
 
-In this first unit, we explore the fundamental concepts of social good, examine key areas where social impact can be achieved, and identify the various actors and interventions that contribute to meaningful change. By the end of this unit, you will have a clear understanding of what constitutes social good and be able to distinguish between initiatives that genuinely serve societal needs and those that may fall short of this mark.
+## Course Structure
 
 ### Block 2
+This course is organized into three comprehensive chapters:
+
+**Chapter 1 – Understanding and Connecting the Dots: Introduction to Social Good, AI, and Projects (Units 1–3):**
+In this opening chapter, you will build a clear foundation of what “social good” means and how projects drive positive change in communities. You will also explore the essentials of artificial intelligence—what it is, what it can and cannot do, and how it can be used responsibly in non-technical settings. By the end of this chapter, you will understand how social impact goals, project thinking, and AI tools fit together to support meaningful and practical interventions.
+
+**Chapter 2 – From Start to Finish: Managing the Project Cycle with AI (Units 4–8):**
+The second chapter takes you through the entire lifecycle of a social-good project. You will learn to define needs, create project charters, plan work using simple structures, monitor progress, manage risks, and evaluate results. Each stage shows how AI tools can enhance clarity, reduce workload, and support decision-making, even without any programming. This chapter equips you with practical, step-by-step skills to move a project from idea to implementation and finally to evidence-based learning.
+
+**Chapter 3 – Responsible Use of AI (Units 9–10):**
+The final chapter focuses on fairness, privacy, transparency, and sustainability—core principles for using AI safely and ethically. You will learn to identify potential biases, protect sensitive data, engage communities transparently, and build trust into every AI-supported workflow. This chapter ensures that even simple AI applications are handled with care, accountability, and attention to long-term impact.
+
+## Course Outcomes
+
+### Block 3
+
+By the end of this course:
+
+* you will be able to turn real social problems into concrete, well-scoped projects, using simple tools and clear logic instead of technical jargon.
+* you will be equipped to use AI tools to support every stage of the project cycle—problem framing, planning, implementation, monitoring, and impact evaluation—in a way that is practical even for non-technical teams.
+* you will be capable of designing and running AI-supported interventions that are evidence-based, measurable through clear KPIs, and adapted to diverse contexts such as NGOs, public agencies, universities, and social enterprises in Vietnam, India, Bangladesh, and beyond.
+* you will know how to monitor results, interpret data responsibly, document lessons learned, and turn them into decisions that improve the next cycle of your project.
+* you will be able to recognize and reduce AI-related risks such as bias, unfair outcomes, privacy breaches, and lack of transparency, and to communicate clearly about how AI is used in your project.
+* you will join a growing community of practitioners who use AI not as a buzzword, but as a careful, well-governed tool to amplify social impact and protect the people they serve.
+
+Whether you want to design your first social-impact project, strengthen an existing program, or simply learn how to use AI in a responsible, hands-on way, this course will give you the structures, templates, and mindset you need to act with confidence. Get ready to design projects that are not only innovative, but also ethical, explainable, and genuinely useful for the communities you care about.
+
+## Unit 1: Introduction to Social Good
+### Block 4
+
+In this first unit, we explore the fundamental concepts of social good, examine key areas where social impact can be achieved, and identify the various actors and interventions that contribute to meaningful change. By the end of this unit, you will have a clear understanding of what constitutes social good and be able to distinguish between initiatives that genuinely serve societal needs and those that may fall short of this mark.
+
 
 ## Understanding Social Good: Core Concepts
+### Block 5
 
 Social good refers to **actions, initiatives, or outcomes that benefit society as a whole, particularly marginalized or underserved communities**. Unlike traditional business activities that primarily focus on profit generation, social good initiatives prioritize creating positive social, environmental, or economic impact that addresses pressing societal challenges.
 
@@ -23,6 +55,7 @@ The concept of social good encompasses several key characteristics:
 - **Ethical Foundation**: Activities grounded in moral principles and social responsibility
 
 ### Key Areas of Social Good
+### Block 6
 
 Social good initiatives typically address critical areas that directly impact human welfare and planetary health:
 
@@ -56,13 +89,14 @@ Social good initiatives typically address critical areas that directly impact hu
 - Advocacy for policy change and legal reforms
 - Community organizing and civic engagement
 
-### Block 3
 
 ## Actors and Interventions in Social Good
+### Block 7
 
 The social good ecosystem comprises various stakeholders who contribute unique resources, expertise, and perspectives to create meaningful change:
 
 ### Primary Actors
+### Block 8
 
 **Non-Governmental Organizations (NGOs)**
 - International development organizations (e.g., Oxfam, World Vision)
@@ -95,6 +129,7 @@ The social good ecosystem comprises various stakeholders who contribute unique r
 - Social movements and activist networks
 
 ### Types of Interventions
+### Block 9
 
 **Direct Service Delivery**
 - Providing essential services (healthcare, education, clean water)
@@ -120,13 +155,14 @@ The social good ecosystem comprises various stakeholders who contribute unique r
 - Institutional strengthening initiatives
 - Knowledge sharing and learning networks
 
-### Block 4
 
 ## Global Context: The UN Sustainable Development Goals
+### Block 10
 
 The **United Nations Sustainable Development Goals (SDGs)** provide a comprehensive framework for understanding and organizing social good initiatives. Adopted in 2015, the 17 SDGs represent a universal call to action to end poverty, protect the planet, and ensure peace and prosperity for all by 2030.
 
 ### The 17 SDGs Overview:
+### Block 11
 
 1. **No Poverty** - End poverty in all its forms everywhere
 2. **Zero Hunger** - End hunger, achieve food security and improved nutrition
@@ -146,11 +182,12 @@ The **United Nations Sustainable Development Goals (SDGs)** provide a comprehens
 16. **Peace, Justice and Strong Institutions** - Promote peaceful and inclusive societies
 17. **Partnerships for the Goals** - Strengthen means of implementation
 
-### Block 5
 
 ## Regional Examples: Social Good in Action
 
+
 ### Bangladesh: Digital Financial Inclusion
+### Block 12
 
 Bangladesh has emerged as a global leader in digital financial services, with initiatives like **bKash** revolutionizing how rural populations access banking services. This mobile financial service platform has enabled millions of previously unbanked citizens to participate in the formal economy, demonstrating how technology can drive financial inclusion and poverty reduction.
 
@@ -167,6 +204,7 @@ Bangladesh has emerged as a global leader in digital financial services, with in
 - Customer service chatbots in local languages
 
 ### India: Healthcare Innovation
+### Block 13
 
 India's **Aarogya Setu** app, developed during the COVID-19 pandemic, showcased how technology can be rapidly deployed for public health emergencies. The contact tracing application helped identify potential COVID-19 exposures and provided health recommendations to over 200 million users.
 
@@ -183,6 +221,7 @@ India's **Aarogya Setu** app, developed during the COVID-19 pandemic, showcased 
 - Medical image analysis for diagnostics
 
 ### Vietnam: Environmental Monitoring
+### Block 14
 
 Vietnam has implemented innovative **smart city** initiatives in Ho Chi Minh City and Hanoi, using IoT sensors and data analytics to monitor air quality, traffic patterns, and urban infrastructure. These systems help city planners make data-driven decisions to improve environmental conditions and quality of life.
 
@@ -198,11 +237,11 @@ Vietnam has implemented innovative **smart city** initiatives in Ho Chi Minh Cit
 - Optimization algorithms for resource allocation
 - Computer vision for infrastructure monitoring
 
-### Block 6
 
 ## What Constitutes Social Good vs. What Does Not
 
 ### Clear Indicators of Social Good:
+### Block 15
 
 **Addressing Root Causes**
 - ✅ Projects that tackle underlying systemic issues rather than just symptoms
@@ -225,6 +264,7 @@ Vietnam has implemented innovative **smart city** initiatives in Ho Chi Minh Cit
 - ✅ Knowledge sharing and capacity building
 
 ### What Typically Does NOT Constitute Social Good:
+### Block 16
 
 **Profit-First Initiatives**
 - ❌ Activities primarily designed to generate revenue without clear social benefit
@@ -241,9 +281,9 @@ Vietnam has implemented innovative **smart city** initiatives in Ho Chi Minh Cit
 - ❌ Programs that inadvertently reinforce existing inequalities
 - ❌ Top-down approaches that ignore community voices
 
-### Block 7
 
 ## Key Learning Points
+### Block 17
 
 • **Social good initiatives must prioritize community benefit over individual or organizational gain**
 
@@ -260,61 +300,6 @@ Vietnam has implemented innovative **smart city** initiatives in Ho Chi Minh Cit
 • **Measurable outcomes and transparent accountability are essential for legitimate social good work**
 
 • **True social good requires addressing inequalities and empowering marginalized communities**
-
----
-
-## Case Study: The Grameen Bank Model
-
-**Background:**
-In 1974, following a terrible famine in Bangladesh, Economics Professor Muhammad Yunus was deeply moved when he provided small loans totaling just $27 to 42 households. This modest investment enabled them to create products for sale, helping them escape poverty and avoid high-interest exploitative lending.
-
-**Project Evolution:**
-- 1976: Pilot microfinance model launched in villages around Chittagong University
-- 1979: Project received support from Central Bank of Bangladesh and expanded to Tangail district
-- 1983: Grameen Bank officially established and began nationwide operations
-- Present: Serves over 7.3 million borrowers (97% women) across 80,200 villages
-
-**Key Success Factors:**
-- **Community-Centered Approach**: Focus on women borrowers and group-based lending
-- **Sustainable Model**: 96.6% repayment rate demonstrating financial viability
-- **Scalable Solution**: Model replicated in 40+ countries worldwide
-- **Partnership Strategy**: Collaboration with government, international organizations, and social funds
-
-**Tasks for Analysis:**
-1. **Identify Stakeholders**: Map all actors involved in the Grameen Bank ecosystem
-2. **Assess Impact Metrics**: Analyze quantitative and qualitative outcomes
-3. **Evaluate Sustainability**: Examine the long-term viability of the model
-4. **Explore AI Potential**: Propose how AI could enhance current operations
-
-**Keywords for Understanding:**
-- Microfinance, financial inclusion, women's empowerment, community development, social entrepreneurship, poverty alleviation, sustainable development, stakeholder engagement, impact measurement
-
----
-
-## Assessment: Mini-Case Analysis
-
-**Scenario:**
-You are working with a local NGO in a developing country that wants to improve access to clean water in rural communities. The NGO has identified three potential approaches:
-
-1. **Charity Model**: Donate water purification tablets and filters to communities
-2. **Infrastructure Model**: Build centralized water treatment facilities
-3. **Empowerment Model**: Train community members to maintain water systems and establish local water management committees
-
-**Context for Analysis:**
-The target communities have limited technical expertise, inconsistent electricity supply, and strong traditional governance structures. Previous aid projects in the region have had mixed results, with some creating dependency and others failing due to lack of local buy-in.
-
-**Questions:**
-1. Which approach best exemplifies social good principles and why?
-2. What role could AI technologies play in each model?
-3. How would you measure success for your chosen approach?
-4. What potential challenges might arise, and how would you address them?
-
-**Evaluation Criteria:**
-- Understanding of social good principles
-- Analysis of stakeholder needs and capacities
-- Consideration of sustainability and local ownership
-- Creative thinking about AI integration opportunities
-- Practical awareness of implementation challenges
 
 ---
 
