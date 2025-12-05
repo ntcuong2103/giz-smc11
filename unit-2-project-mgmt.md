@@ -176,7 +176,7 @@ This is the ultimate social change you're working toward:
 
 **Stakeholders** are all the people and organizations who affect or are affected by your project. Managing relationships with stakeholders is often the key to project success, especially in social good work where community support is essential.
 
-![Stakeholder Network][(assets/stakeholder.png)]
+![Stakeholder Network](assets/stakeholder.png)
 
 ### Types of Stakeholders
 ### Block 9
