@@ -48,19 +48,19 @@ Historically, many social good efforts began as charitable or philanthropic resp
 
 Social good projects are motivated by several key drivers:
 
-Unmet Social Needs: 
+**Unmet Social Needs:**
 Many communities experience persistent gaps in services, opportunities, and representation. Social good projects seek to respond where existing systems do not adequately serve vulnerable or marginalized populations, whether due to geographic isolation, economic barriers, or social discrimination.
 
-Desire for Systemic Change: 
+**Desire for Systemic Change:** 
 Rather than treating symptoms alone, social good initiatives increasingly aim to influence systems-such as education, healthcare, governance, or labor markets-so that positive outcomes can be sustained over time. Projects become vehicles for testing new models, influencing policy, and scaling effective solutions.
 
-Community Agency and Empowerment:
+**Community Agency and Empowerment:**
 Modern social good work is motivated by the understanding that communities are not passive recipients of help. Effective projects are designed with communities rather than for them, recognizing local knowledge, agency, and leadership as essential ingredients for success.
 
-Accountability and Evidence:
+**Accountability and Evidence:**
 As resources for social initiatives are often limited and highly competitive, there is growing pressure to demonstrate that interventions truly work. Social good projects are therefore motivated by the need to define clear goals, measure outcomes, and learn from both successes and failures.
 
-Technological and Data Opportunities:
+**Technological and Data Opportunities:**
 Advances in digital tools, data availability, and artificial intelligence have created new possibilities for addressing social challenges more efficiently and at scale. These opportunities motivate organizations to design projects that can leverage technology responsibly while remaining grounded in real human needs.
 
 At its core, the motivation for social good projects lies in a shared ethical commitment: the belief that social, economic, and environmental conditions can be improved through intentional, collaborative action. However, good intentions alone are not enough. Without clear objectives, thoughtful design, and ongoing reflection, even well-meaning initiatives can fall short of their goals.
@@ -109,7 +109,7 @@ Typical interventions include:
 
 Healthcare and well-being initiatives address both immediate health needs and long-term system resilience. These projects often involve **public health authorities, NGOs, and international organizations**, supported by research institutions and technology partners.
 
-Common interventions include:
+Typical interventions include:
 - Expanding access to medical services in remote or underserved areas through **direct service delivery**
 - Developing preventive health programs and health education initiatives as part of **capacity building**
 - Implementing mental health support systems through **community-based services and advocacy**
@@ -133,7 +133,7 @@ Typical interventions include:
 
 Economic empowerment initiatives aim to improve livelihoods, reduce poverty, and increase financial resilience. These projects often involve **social enterprises, NGOs, financial institutions, and government agencies** working together.
 
-Key interventions include:
+Typical interventions include:
 - Microfinance and financial inclusion programs delivered through **service provision and digital platforms**
 - Skills development and employment initiatives supported by **training and capacity building**
 - Support for small businesses and entrepreneurship through **mentorship, access to markets, and financing**
