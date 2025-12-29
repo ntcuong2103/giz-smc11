@@ -209,6 +209,7 @@ The table below synthesizes how areas, actors, and interventions commonly align 
 ### Integrated Takeaway
 
 Social good projects are most effective when **clear problem areas**, **capable actors**, and **appropriate interventions** are intentionally aligned. This narrative understanding provides the foundation for the project design and management tools introduced in the next unit.
+
 ---
 
 ## Regional Examples: Social Good in Action
