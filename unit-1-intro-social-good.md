@@ -40,6 +40,32 @@ Whether you want to design your first social-impact project, strengthen an exist
 
 In this first unit, we explore the fundamental concepts of social good, examine key areas where social impact can be achieved, and identify the various actors and interventions that contribute to meaningful change. By the end of this unit, you will have a clear understanding of what constitutes social good and be able to distinguish between initiatives that genuinely serve societal needs and those that may fall short of this mark.
 
+## Background and motivation
+
+Across the world, societies face complex and interconnected challenges such as poverty, inequality, climate change, limited access to healthcare and education, and social exclusion. While governments and markets play important roles in addressing these issues, they often fall short of reaching all communities or responding quickly enough to emerging needs. Social good projects arise in this gap-motivated by the recognition that deliberate, organized action is required to improve human well-being and protect shared resources.
+
+Historically, many social good efforts began as charitable or philanthropic responses to visible suffering. Over time, however, practitioners and communities have learned that lasting impact requires more than goodwill. Short-term aid, when not thoughtfully designed, can fail to address root causes or may even reinforce dependency and inequality. This realization has driven a shift toward project-based approaches that emphasize sustainability, accountability, and empowerment.
+
+Social good projects are motivated by several key drivers:
+
+Unmet Social Needs: 
+Many communities experience persistent gaps in services, opportunities, and representation. Social good projects seek to respond where existing systems do not adequately serve vulnerable or marginalized populations, whether due to geographic isolation, economic barriers, or social discrimination.
+
+Desire for Systemic Change: 
+Rather than treating symptoms alone, social good initiatives increasingly aim to influence systems-such as education, healthcare, governance, or labor markets-so that positive outcomes can be sustained over time. Projects become vehicles for testing new models, influencing policy, and scaling effective solutions.
+
+Community Agency and Empowerment:
+Modern social good work is motivated by the understanding that communities are not passive recipients of help. Effective projects are designed with communities rather than for them, recognizing local knowledge, agency, and leadership as essential ingredients for success.
+
+Accountability and Evidence:
+As resources for social initiatives are often limited and highly competitive, there is growing pressure to demonstrate that interventions truly work. Social good projects are therefore motivated by the need to define clear goals, measure outcomes, and learn from both successes and failures.
+
+Technological and Data Opportunities:
+Advances in digital tools, data availability, and artificial intelligence have created new possibilities for addressing social challenges more efficiently and at scale. These opportunities motivate organizations to design projects that can leverage technology responsibly while remaining grounded in real human needs.
+
+At its core, the motivation for social good projects lies in a shared ethical commitment: the belief that social, economic, and environmental conditions can be improved through intentional, collaborative action. However, good intentions alone are not enough. Without clear objectives, thoughtful design, and ongoing reflection, even well-meaning initiatives can fall short of their goals.
+
+This is why understanding the foundations of social good—its purpose, actors, and guiding principles—is essential before moving into project design and management. In the following sections and units, you will build on this motivation by learning how to translate social values into structured projects that are realistic, measurable, and genuinely beneficial to the communities they aim to serve.
 
 ## Understanding Social Good: Core Concepts
 ### Block 5
@@ -54,148 +80,227 @@ The concept of social good encompasses several key characteristics:
 - **Measurable Impact**: Outcomes that can be tracked and evaluated for their social value
 - **Ethical Foundation**: Activities grounded in moral principles and social responsibility
 
-### Key Areas of Social Good
+## Key Areas of Social Good  
 ### Block 6
 
-Social good initiatives typically address critical areas that directly impact human welfare and planetary health:
+Social good initiatives focus on **specific areas of human and environmental well-being**, but meaningful impact is achieved only when **appropriate actors apply well-chosen interventions** within these areas. Each area of social good therefore represents not just a problem domain, but a space where different organizations collaborate using complementary approaches.
 
-**Education and Digital Literacy**
+To understand social good effectively, it is useful to apply a **system lens**:
 
-- Improving access to quality education for underserved populations
-- Developing digital skills and technological literacy
-- Creating innovative learning platforms and educational technologies
-- Supporting teacher training and curriculum development
+> **Social Impact = Area × Actors × Interventions**
 
-**Healthcare and Well-being**
-
-- Expanding access to medical services in remote areas
-- Developing preventive health programs
-- Implementing mental health support systems
-- Creating health monitoring and diagnostic technologies
-
-**Environmental Sustainability**
-
-- Climate change mitigation and adaptation projects
-- Renewable energy and clean technology initiatives
-- Conservation and biodiversity protection programs
-- Sustainable agriculture and food security projects
-
-**Economic Empowerment**
-
-- Microfinance and financial inclusion programs
-- Skills development and employment opportunities
-- Support for small businesses and entrepreneurship
-- Income generation and poverty alleviation initiatives
-
-**Social Justice and Human Rights**
-
-- Promoting equality and non-discrimination
-- Supporting vulnerable populations (refugees, elderly, disabled)
-- Advocacy for policy change and legal reforms
-- Community organizing and civic engagement
+Weak initiatives often focus on only one element (for example, a worthy cause without the right partners), while strong social good projects intentionally align all three.
 
 
-## Actors and Interventions in Social Good
+
+### Education and Digital Literacy
+
+Education-focused social good projects aim to expand access to learning and build skills that enable long-term opportunity. These initiatives are commonly led by **NGOs, governments, and academic institutions**, with support from **technology providers and social enterprises**.
+
+Typical interventions include:
+- Improving access to quality education for underserved populations through **direct service delivery**
+- Developing digital skills and technological literacy via **training and capacity-building programs**
+- Creating innovative learning platforms and educational technologies through **innovation and technology development**
+- Supporting teacher training and curriculum development in partnership with **public education systems**
+
+
+
+### Healthcare and Well-being
+
+Healthcare and well-being initiatives address both immediate health needs and long-term system resilience. These projects often involve **public health authorities, NGOs, and international organizations**, supported by research institutions and technology partners.
+
+Common interventions include:
+- Expanding access to medical services in remote or underserved areas through **direct service delivery**
+- Developing preventive health programs and health education initiatives as part of **capacity building**
+- Implementing mental health support systems through **community-based services and advocacy**
+- Creating health monitoring, diagnostic, and data systems using **technological innovation**
+
+
+
+### Environmental Sustainability
+
+Environmental social good projects focus on protecting natural systems while supporting human livelihoods. These initiatives typically require collaboration between **governments, environmental NGOs, private sector actors, and local communities**.
+
+Typical interventions include:
+- Climate change mitigation and adaptation projects driven by **policy change and community engagement**
+- Renewable energy and clean technology initiatives supported by **private sector innovation**
+- Conservation and biodiversity protection programs implemented through **community-based service delivery**
+- Sustainable agriculture and food security projects combining **training, technology transfer, and local participation**
+
+
+
+### Economic Empowerment
+
+Economic empowerment initiatives aim to improve livelihoods, reduce poverty, and increase financial resilience. These projects often involve **social enterprises, NGOs, financial institutions, and government agencies** working together.
+
+Key interventions include:
+- Microfinance and financial inclusion programs delivered through **service provision and digital platforms**
+- Skills development and employment initiatives supported by **training and capacity building**
+- Support for small businesses and entrepreneurship through **mentorship, access to markets, and financing**
+- Income generation and poverty alleviation initiatives linked to **policy support and local economic systems**
+
+
+
+### Social Justice and Human Rights
+
+Social justice initiatives focus on equity, dignity, and protection of rights. These efforts are commonly led by **civil society organizations, advocacy groups, and community networks**, often working alongside legal institutions and policymakers.
+
+Typical interventions include:
+- Promoting equality and non-discrimination through **advocacy and public awareness campaigns**
+- Supporting vulnerable populations (refugees, elderly, disabled) via **targeted service delivery**
+- Advocacy for policy change and legal reforms using **research, lobbying, and coalition-building**
+- Community organizing and civic engagement that strengthens **local voice and participation**
+
+
+
+## Actors and Interventions in Social Good  
 ### Block 7
 
-The social good ecosystem comprises various stakeholders who contribute unique resources, expertise, and perspectives to create meaningful change:
+Social good outcomes emerge from the **interaction between actors and the interventions they are capable of delivering**. Different actors bring different strengths—such as legitimacy, funding, technical expertise, or local trust—and these strengths shape the types of interventions they can effectively implement.
 
-### Primary Actors
+Understanding **who does what, and why**, is essential for designing realistic and impactful social good projects.
+
+
+
+## Primary Actors  
 ### Block 8
 
-**Non-Governmental Organizations (NGOs)**
+### Non-Governmental Organizations (NGOs)
 
-- International development organizations (e.g., Oxfam, World Vision)
-- Local community-based organizations
-- Advocacy groups and policy think tanks
-- Professional associations and networks
+NGOs often act as **implementers and connectors**, translating social goals into on-the-ground action. They are particularly effective in **direct service delivery, community engagement, and capacity building**, especially in underserved areas.
 
-**Government and Public Sector**
+Typical roles include:
+- Implementing education, health, and livelihood programs
+- Mobilizing communities and facilitating participation
+- Piloting innovative approaches that governments may later scale
+- Conducting advocacy and policy research
 
-- National and local government agencies
-- Public health departments and educational institutions
-- International organizations (UN, World Bank, regional bodies)
-- Policy makers and regulatory authorities
 
-**Private Sector and Social Enterprises**
 
-- Corporate social responsibility (CSR) initiatives
-- Social enterprises and benefit corporations
-- Impact investors and philanthropic foundations
-- Technology companies developing solutions for social good
+### Government and Public Sector
 
-**Academic and Research Institutions**
+Governments play a critical role in **system-level change**, regulation, and sustainability. Their interventions often focus on **policy, scale, and institutional integration**.
 
-- Universities and research centers
-- Think tanks and policy institutes
-- Student organizations and academic networks
-- Innovation labs and incubators
+Typical roles include:
+- Providing public services such as education, healthcare, and infrastructure
+- Developing and enforcing policies and regulations
+- Funding and overseeing large-scale programs
+- Partnering with NGOs and private actors to extend reach
 
-**Community and Civil Society**
 
-- Local communities and grassroots organizations
-- Volunteer networks and citizen groups
-- Religious and cultural organizations
-- Social movements and activist networks
 
-### Types of Interventions
+### Private Sector and Social Enterprises
+
+Private sector actors contribute **resources, innovation, and efficiency**, while social enterprises combine business models with social missions. Their interventions often center on **technology development, financing, and market-based solutions**.
+
+Typical roles include:
+- Developing and deploying technologies for social use
+- Supporting projects through CSR and impact investment
+- Creating sustainable service models through social enterprises
+- Expanding access to goods, services, and markets
+
+
+
+### Academic and Research Institutions
+
+Academic institutions contribute **evidence, analysis, and innovation**, supporting more effective and accountable interventions.
+
+Typical roles include:
+- Conducting research and impact evaluations
+- Developing evidence-based tools and methods
+- Training future practitioners and leaders
+- Supporting innovation labs and pilot projects
+
+### Community and Civil Society
+
+Communities are not merely beneficiaries; they are **essential actors** in social good initiatives. Their involvement ensures relevance, legitimacy, and sustainability.
+
+Typical roles include:
+- Identifying local needs and priorities
+- Co-designing and implementing interventions
+- Providing local knowledge and social trust
+- Sustaining initiatives beyond formal project timelines
+
+
+## Types of Interventions  
 ### Block 9
 
-**Direct Service Delivery**
+Interventions are the **practical actions** through which actors address social challenges. The same intervention can look very different depending on the area, the actor, and the local context.
 
-- Providing essential services (healthcare, education, clean water)
+### Direct Service Delivery
+Often led by NGOs and public agencies, direct service delivery addresses immediate needs while laying the groundwork for longer-term change.
+
+Examples:
+- Healthcare, education, clean water, shelter
 - Emergency relief and humanitarian assistance
 - Infrastructure development and maintenance
-- Capacity building and training programs
+- Training and service provision programs
 
-**Advocacy and Policy Change**
 
-- Policy research and development
-- Public awareness campaigns
-- Legislative advocacy and lobbying
+
+### Advocacy and Policy Change
+Advocacy interventions aim to influence systems, laws, and public awareness. These are commonly led by civil society organizations, NGOs, and research institutions.
+
+Examples:
+- Policy research and evidence generation
+- Public awareness and behavior-change campaigns
+- Legislative advocacy and reform efforts
 - Community organizing and mobilization
 
-**Innovation and Technology Development**
 
-- Research and development of new solutions
-- Technology transfer and adaptation
+
+### Innovation and Technology Development
+Technology-based interventions are frequently driven by private sector actors, universities, and innovation labs, often in collaboration with NGOs and governments.
+
+Examples:
+- Research and development of new tools
+- Technology adaptation to local contexts
 - Digital platforms and mobile applications
-- Data collection and analysis systems
+- Data collection, monitoring, and analysis systems
 
-**Capacity Building and Empowerment**
 
+
+### Capacity Building and Empowerment
+Capacity-building interventions strengthen people and institutions so they can sustain impact over time. These interventions cut across all areas of social good.
+
+Examples:
 - Skills training and professional development
-- Leadership development programs
+- Leadership and organizational development
 - Institutional strengthening initiatives
 - Knowledge sharing and learning networks
 
 
-## Global Context: The UN Sustainable Development Goals
-### Block 10
 
-The **United Nations Sustainable Development Goals (SDGs)** provide a comprehensive framework for understanding and organizing social good initiatives. Adopted in 2015, the 17 SDGs represent a universal call to action to end poverty, protect the planet, and ensure peace and prosperity for all by 2030.
+## Mapping Areas, Actors, and Interventions
 
-### The 17 SDGs Overview:
-### Block 11
+The table below illustrates how **social good areas**, **typical lead actors**, and **common interventions** align in practice. It highlights that no area relies on a single actor or intervention.
 
-1. **No Poverty** - End poverty in all its forms everywhere
-2. **Zero Hunger** - End hunger, achieve food security and improved nutrition
-3. **Good Health and Well-Being** - Ensure healthy lives and promote well-being for all
-4. **Quality Education** - Ensure inclusive and equitable quality education
-5. **Gender Equality** - Achieve gender equality and empower all women and girls
-6. **Clean Water and Sanitation** - Ensure availability and sustainable management of water
-7. **Affordable and Clean Energy** - Ensure access to affordable, reliable, clean energy
-8. **Decent Work and Economic Growth** - Promote sustained, inclusive economic growth
-9. **Industry, Innovation and Infrastructure** - Build resilient infrastructure
-10. **Reduced Inequalities** - Reduce inequality within and among countries
-11. **Sustainable Cities and Communities** - Make cities inclusive, safe, resilient
-12. **Responsible Consumption and Production** - Ensure sustainable consumption patterns
-13. **Climate Action** - Take urgent action to combat climate change
-14. **Life Below Water** - Conserve and sustainably use oceans and marine resources
-15. **Life on Land** - Protect, restore and promote sustainable use of terrestrial ecosystems
-16. **Peace, Justice and Strong Institutions** - Promote peaceful and inclusive societies
-17. **Partnerships for the Goals** - Strengthen means of implementation
+| Social Good Area | Typical Lead Actors | Common Interventions |
+|------------------|--------------------|----------------------|
+| Education & Digital Literacy | NGOs, governments, universities | Service delivery, capacity building, technology development |
+| Healthcare & Well-being | Public sector, NGOs, international organizations | Service delivery, policy advocacy, data systems |
+| Environmental Sustainability | Governments, NGOs, private sector, communities | Policy change, technology innovation, community engagement |
+| Economic Empowerment | Social enterprises, NGOs, financial institutions | Skills training, financial inclusion, enterprise support |
+| Social Justice & Human Rights | Civil society, advocacy groups, legal institutions | Advocacy, policy reform, community organizing |
 
+
+## Conceptual Framework: The Social Good Triangle
+
+> **[Placeholder: 3-circle Venn diagram showing the overlap between  
+> “Social Good Areas”, “Actors”, and “Interventions”.  
+> The center overlap is labeled “Effective Social Good Projects”.]**
+
+This framework emphasizes that:
+- Focusing on an area alone is not enough  
+- Actors must have the mandate and capacity to act  
+- Interventions must fit both the context and the actors involved  
+
+
+### Integrated Takeaway
+
+Effective social good projects emerge when **clear social areas**, **capable actors**, and **appropriate interventions** are intentionally aligned. In the next unit, you will learn how project management tools help transform these elements into structured, feasible projects that move from ideas to measurable impact.
+
+---
 
 ## Regional Examples: Social Good in Action
 
