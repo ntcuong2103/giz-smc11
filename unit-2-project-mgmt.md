@@ -4,9 +4,32 @@
 
 ### Block 1
 
-Welcome to Unit 2, where we explore **project management fundamentals for social good initiatives** in simple, practical terms. This unit will help you understand how to turn social problems into organized projects that create real change in communities.
+Across the world, social good initiatives aim to address complex challenges such as education inequality, health access, environmental protection, and gender inclusion. While these initiatives are driven by strong values and community needs, many struggle to translate good intentions into sustainable impact. Limited funding, diverse stakeholders, cultural sensitivities, and uncertain environments make managing social good projects particularly demanding.
 
-Managing social good projects is both an art and a science. It requires balancing systematic planning with flexibility, professional standards with cultural sensitivity, and efficient processes with meaningful community engagement. By the end of this unit, you will understand the essential steps for managing projects that create lasting positive change.
+Effective project management provides a structured way to navigate these challenges. By applying clear planning, coordination, and monitoring practices, social initiatives can move from abstract goals to concrete, measurable outcomes that genuinely improve lives.
+
+You will learn how to structure a social good initiative as a project, plan activities, manage time, people, and resources effectively, and adapt plans while staying aligned with social objectives.
+
+Throughout this unit, you will follow the story of Amina Rahman, a local project manager for a small non-profit organization that aims to improve educational opportunities for women who were unable to complete formal schooling. The goal is to enhance education access and literacy rates for the women by addressing barriers that prevent them from attending school. 
+
+Amina is not a corporate project manager with access to advanced software or large teams. Instead, she represents a realistic social good project manager, relying on clear planning, communication, and adaptability to guide the project from idea to implementation.
+
+By following Amina’s decisions and challenges across each project phase, learners will see how project management principles are applied in real-world social contexts.
+
+By the end of this unit, learners will be able to:
+
+- Understand the key phases of the project management lifecycle in social good initiatives
+
+- Apply basic project planning concepts to community-based projects
+
+- Identify the role and responsibilities of a project manager in a social context
+
+- Recognize how flexibility, cultural sensitivity, and stakeholder engagement shape project decisions
+
+- See how a real-world project manager like Amina structures and manages a women’s literacy project
+
+This unit provides a practical foundation for managing social good projects effectively.
+
 
 ## Understanding the Project Journey: From Idea to Impact
 ### Block 2

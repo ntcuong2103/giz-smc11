@@ -85,37 +85,27 @@ The concept of social good encompasses several key characteristics:
 
 Social good initiatives address persistent challenges that affect human well-being and planetary health. Each area of social good represents a **problem context** rather than a predefined solution. Understanding these areas helps project designers clarify *what kind of change is needed*, before determining *who should act* and *how action should be taken*.
 
-**Education and Digital Literacy:**  
-Education is widely recognized as a foundation for long-term social mobility and resilience. Social good initiatives in this area focus not only on access to schooling, but also on the skills required to participate meaningfully in modern society, particularly digital skills.
+**Education and Digital Literacy:**  Education is widely recognized as a foundation for long-term social mobility and resilience. Social good initiatives in this area focus not only on access to schooling, but also on the skills required to participate meaningfully in modern society, particularly digital skills.
 
-**Example:**  
-An NGO working with a public university may design a digital literacy program for rural youth. The university contributes curriculum expertise, the NGO manages community outreach, and a technology partner provides low-cost learning platforms. The intervention combines **direct service delivery** (training learners), **capacity building** (training teachers), and **technology development** (online learning tools). The social good lies not in any single activity, but in how these elements reinforce one another to expand opportunity.
+**Example:**  An NGO working with a public university may design a digital literacy program for rural youth. The university contributes curriculum expertise, the NGO manages community outreach, and a technology partner provides low-cost learning platforms. The intervention combines **direct service delivery** (training learners), **capacity building** (training teachers), and **technology development** (online learning tools). The social good lies not in any single activity, but in how these elements reinforce one another to expand opportunity.
 
-**Healthcare and Well-being:**  
-Healthcare and well-being initiatives aim to protect life, prevent illness, and improve quality of life. These initiatives often balance immediate service needs with longer-term system strengthening, particularly in underserved or remote communities.
+**Healthcare and Well-being:**  Healthcare and well-being initiatives aim to protect life, prevent illness, and improve quality of life. These initiatives often balance immediate service needs with longer-term system strengthening, particularly in underserved or remote communities.
 
-**Example:**  
-A mobile health initiative may deliver basic medical services to remote villages. A public health agency ensures alignment with national standards, an NGO deploys trained health workers, and a research institution evaluates outcomes. Digital tools support patient records and follow-up care. Together, **service delivery**, **data systems**, and **capacity building** improve both access and continuity of care.
+**Example:**  A mobile health initiative may deliver basic medical services to remote villages. A public health agency ensures alignment with national standards, an NGO deploys trained health workers, and a research institution evaluates outcomes. Digital tools support patient records and follow-up care. Together, **service delivery**, **data systems**, and **capacity building** improve both access and continuity of care.
 
 
-**Environmental Sustainability:**  
-Environmental sustainability initiatives focus on protecting ecosystems while supporting livelihoods and long-term human well-being. These projects often require coordinated action across communities, institutions, and markets.
+**Environmental Sustainability:**  Environmental sustainability initiatives focus on protecting ecosystems while supporting livelihoods and long-term human well-being. These projects often require coordinated action across communities, institutions, and markets.
 
-**Example:**  
-In a coastal conservation project, government agencies regulate fishing practices, environmental NGOs conduct community education, and local cooperatives adopt sustainable methods. Technology partners may provide monitoring tools for biodiversity. By combining **policy change**, **community engagement**, and **innovation**, the project aligns environmental protection with economic survival.
+**Example:**  In a coastal conservation project, government agencies regulate fishing practices, environmental NGOs conduct community education, and local cooperatives adopt sustainable methods. Technology partners may provide monitoring tools for biodiversity. By combining **policy change**, **community engagement**, and **innovation**, the project aligns environmental protection with economic survival.
 
 
-**Economic Empowerment:**  
-Economic empowerment initiatives seek to improve income stability, employment opportunities, and financial resilience, especially for marginalized populations. These efforts often blend social objectives with market-based mechanisms.
+**Economic Empowerment:**  Economic empowerment initiatives seek to improve income stability, employment opportunities, and financial resilience, especially for marginalized populations. These efforts often blend social objectives with market-based mechanisms.
 
-**Example:**  
-A social enterprise may provide digital micro-loans to small farmers. Financial institutions manage risk, NGOs offer financial literacy training, and government agencies align the initiative with national development goals. Through **financial inclusion**, **skills development**, and **technology platforms**, participants gain tools to improve their livelihoods sustainably.
+**Example:**  A social enterprise may provide digital micro-loans to small farmers. Financial institutions manage risk, NGOs offer financial literacy training, and government agencies align the initiative with national development goals. Through **financial inclusion**, **skills development**, and **technology platforms**, participants gain tools to improve their livelihoods sustainably.
 
-**Social Justice and Human Rights:**  
-Social justice and human rights initiatives address inequality, exclusion, and violations of dignity. Rather than focusing solely on services, these initiatives often seek to transform systems, norms, and power structures.
+**Social Justice and Human Rights:**  Social justice and human rights initiatives address inequality, exclusion, and violations of dignity. Rather than focusing solely on services, these initiatives often seek to transform systems, norms, and power structures.
 
-**Example:**  
-A disability rights initiative may involve advocacy organizations raising public awareness, legal institutions pursuing policy reform, and community groups organizing affected individuals. Research institutions support the effort with evidence. The combination of **advocacy**, **community organizing**, and **policy reform** helps embed inclusion into law and practice.
+**Example:**  A disability rights initiative may involve advocacy organizations raising public awareness, legal institutions pursuing policy reform, and community groups organizing affected individuals. Research institutions support the effort with evidence. The combination of **advocacy**, **community organizing**, and **policy reform** helps embed inclusion into law and practice.
 
 ## Actors in the Social Good Ecosystem  
 ### Block 7
@@ -125,66 +115,48 @@ Social good projects require actors who have the capacity, legitimacy, and resou
 ### Primary Actors  
 ### Block 8
 
-**Non-Governmental Organizations (NGOs):**  
-NGOs often work closest to communities and are skilled at translating social goals into practical action. Their flexibility and contextual knowledge make them effective implementers and connectors.
+**Non-Governmental Organizations (NGOs):**  NGOs often work closest to communities and are skilled at translating social goals into practical action. Their flexibility and contextual knowledge make them effective implementers and connectors.
 
-**Example:**  
-In a community health project, an NGO may deliver services directly while training local volunteers. Over time, this approach builds trust and enables the community to sustain activities independently.
+**Example:**  In a community health project, an NGO may deliver services directly while training local volunteers. Over time, this approach builds trust and enables the community to sustain activities independently.
 
 
-**Government and Public Sector:**  
-Governments play a critical role in ensuring scale, legitimacy, and long-term sustainability. Their involvement is essential when social good requires system-level change.
+**Government and Public Sector:**  Governments play a critical role in ensuring scale, legitimacy, and long-term sustainability. Their involvement is essential when social good requires system-level change.
 
-**Example:**  
-An education reform piloted by NGOs may be adopted by a ministry of education, integrated into national policy, and funded at scale—transforming a local initiative into a nationwide program.
+**Example:**  An education reform piloted by NGOs may be adopted by a ministry of education, integrated into national policy, and funded at scale—transforming a local initiative into a nationwide program.
 
 
-**Private Sector and Social Enterprises:**  
-Private sector actors contribute innovation, efficiency, and investment. Social enterprises align business models with social missions.
+**Private Sector and Social Enterprises:**  Private sector actors contribute innovation, efficiency, and investment. Social enterprises align business models with social missions.
 
-**Example:**  
-A company developing low-cost medical devices may partner with hospitals and NGOs to reach underserved populations, ensuring both social impact and financial sustainability.
+**Example:**  A company developing low-cost medical devices may partner with hospitals and NGOs to reach underserved populations, ensuring both social impact and financial sustainability.
 
-**Academic and Research Institutions:**  
-Academic institutions strengthen social good through research, evaluation, and innovation, helping distinguish effective interventions from well-intentioned but ineffective ones.
+**Academic and Research Institutions:**  Academic institutions strengthen social good through research, evaluation, and innovation, helping distinguish effective interventions from well-intentioned but ineffective ones.
 
-**Example:**  
-A university research team may evaluate a poverty reduction program and provide evidence that informs policy decisions and improves future project design.
+**Example:**  A university research team may evaluate a poverty reduction program and provide evidence that informs policy decisions and improves future project design.
 
-**Community and Civil Society:**  
-Communities are essential actors rather than passive beneficiaries. Their participation ensures relevance, legitimacy, and sustainability.
+**Community and Civil Society:**  Communities are essential actors rather than passive beneficiaries. Their participation ensures relevance, legitimacy, and sustainability.
 
-**Example:**  
-In an environmental project, community-led monitoring ensures conservation efforts align with local needs and encourages long-term stewardship of natural resources.
+**Example:**  In an environmental project, community-led monitoring ensures conservation efforts align with local needs and encourages long-term stewardship of natural resources.
 
 ## Types of Interventions  
 ### Block 9
 
 Interventions describe *how actors engage with social challenges*. The same intervention type can be applied across different areas and by different actors, producing different outcomes depending on context.
 
-**Direct Service Delivery:**  
-This intervention focuses on meeting immediate needs and is often the most visible form of social good.
+**Direct Service Delivery:**  This intervention focuses on meeting immediate needs and is often the most visible form of social good.
 
-**Example:**  
-Providing clean water through boreholes addresses urgent health risks. When paired with community training and maintenance planning, the intervention becomes sustainable rather than temporary.
+**Example:**  Providing clean water through boreholes addresses urgent health risks. When paired with community training and maintenance planning, the intervention becomes sustainable rather than temporary.
 
-**Advocacy and Policy Change:**  
-Advocacy interventions aim to influence laws, policies, and social norms to create systemic change.
+**Advocacy and Policy Change:**  Advocacy interventions aim to influence laws, policies, and social norms to create systemic change.
 
-**Example:**  
-A child labor reduction initiative may combine public awareness campaigns with legislative reform and enforcement, addressing root causes rather than isolated cases.
+**Example:**  A child labor reduction initiative may combine public awareness campaigns with legislative reform and enforcement, addressing root causes rather than isolated cases.
 
-**Innovation and Technology Development:**  
-Innovation introduces new or adapted tools to address social challenges more effectively.
+**Innovation and Technology Development:**  Innovation introduces new or adapted tools to address social challenges more effectively.
 
-**Example:**  
-A disease surveillance platform enables faster public health responses, but only when institutions are prepared to interpret data and act on it.
+**Example:**  A disease surveillance platform enables faster public health responses, but only when institutions are prepared to interpret data and act on it.
 
-**Capacity Building and Empowerment:**  
-Capacity building strengthens people and institutions so they can sustain impact over time.
+**Capacity Building and Empowerment:**  Capacity building strengthens people and institutions so they can sustain impact over time.
 
-**Example:**  
-Training community leaders to manage local projects empowers communities to continue improving conditions independently after external funding ends.
+**Example:**  Training community leaders to manage local projects empowers communities to continue improving conditions independently after external funding ends.
 
 ## Mapping Areas, Actors, and Interventions
 
