@@ -416,6 +416,18 @@ Priya's answer: "AI can provide frameworks, examples, and thinking patterns. But
 
 ---
 
+**Tool alternatives for project planning**
+
+| Tool | Where it helps in planning | Why it fits this phase | Watch-outs |
+| --- | --- | --- | --- |
+| Microsoft Copilot (Excel/Word) | Budgets, workplans, risk registers, draft project docs | Speeds up turning outlines into tables, charts, and documents | Governance depends on your tenant/org setup; verify sharing settings |
+| Smartsheet / MS Project / ProjectLibre | Gantt timelines, dependencies, resource planning | Planning needs sequencing and constraints, not just text | Over-precision can create false certainty; keep buffers and assumptions explicit |
+| Asana / Monday.com / ClickUp (with AI features) | WBS → tasks, owners, and due dates | Good for turning plans into assignable work | Don’t let the tool drive the strategy; keep ToC and outcomes central |
+| Notion AI / Confluence (Atlassian Intelligence) | Central knowledge base for the plan and decisions | Keeps decisions, versions, and rationale in one place | Requires discipline: define “source of truth” and update cadence |
+| Claude or Gemini | Drafting alternative plans and stress-testing assumptions | Useful for “what if” scenarios and plan reviews | Treat as a planning assistant, not an authority; validate with field reality |
+
+Tip: in planning, optimize for **clarity + feasibility**—tools should make responsibilities, timelines, and risks explicit.
+
 ## Reflection: Planning Your Project
 ### Block 12
 

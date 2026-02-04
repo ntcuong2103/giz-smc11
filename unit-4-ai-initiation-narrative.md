@@ -441,6 +441,18 @@ Priya's answer: "That's good! It means AI is actually helping you learn somethin
 
 ---
 
+**Tool alternatives for project initiation**
+
+| Tool | Where it helps in initiation | Why it fits this phase | Watch-outs |
+| --- | --- | --- | --- |
+| Perplexity | Rapid landscape scan and source-backed summaries | Good for finding recent studies and getting links quickly | Always open and check the original sources; web results can be uneven |
+| Elicit / Consensus | Evidence mapping and literature review | Helps move from opinions to research patterns | Coverage varies by topic and region; still validate locally |
+| Claude (Anthropic) | Synthesizing stakeholder notes and drafting a problem statement | Strong at structuring long, messy inputs into clear narratives | Don’t paste sensitive beneficiary data unless policy allows |
+| Kumu / Miro / diagrams.net | Systems maps and stakeholder maps | Visualizes feedback loops, leverage points, and influence | Diagrams can look “certain” even when assumptions are untested |
+| Local/offline models (Ollama / LM Studio) | Working with sensitive notes during early scoping | More control when dealing with sensitive community data | Model quality varies; you still need rigorous fact-checking |
+
+Tip: in initiation, optimize for **evidence + validation**—use tools to accelerate research and structure thinking, then confirm priorities with stakeholders.
+
 ## Reflection: Your Initiation Journey
 ### Block 11
 

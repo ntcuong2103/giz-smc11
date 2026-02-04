@@ -394,6 +394,18 @@ Priya simplified by creating a dashboard with 5-7 key indicators. She checked th
 
 ---
 
+**Tool alternatives for monitoring and control**
+
+| Tool | Where it helps in monitoring | Why it fits this phase | Watch-outs |
+| --- | --- | --- | --- |
+| Power BI / Tableau / Looker Studio | Dashboards for key indicators and trends | Monitoring is about patterns over time and segmentation | A dashboard is only as good as indicator definitions and data quality |
+| Microsoft Copilot (Excel/Power BI) | Cleaning data, quick summaries, draft narratives | Speeds up analysis and reporting cycles | Validate any auto-insights against the raw data |
+| KoboToolbox / ODK analytics exports | Consistent pipeline from collection → reporting | Reduces manual copy/paste errors | Build simple QA checks (missingness, outliers, duplicates) |
+| Dovetail / Airtable | Coding qualitative notes and tracking themes | Captures stories that numbers miss | Maintain anonymization and consent documentation |
+| Python/R (or even advanced Excel) | Deeper analysis (cohorts, correlations, segmentation) | Lets you test hypotheses suggested by monitoring | Avoid “correlation = causation”; document assumptions |
+
+Tip: in monitoring, optimize for **learning loops**—collect only what you will use, and make sure insights trigger decisions.
+
 ## Reflection: Monitoring Your Project
 ### Block 14
 

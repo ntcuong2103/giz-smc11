@@ -403,6 +403,18 @@ She worked with her organization to:
 
 ---
 
+**Tool alternatives for evaluation and closure**
+
+| Tool | Where it helps in evaluation/closure | Why it fits this phase | Watch-outs |
+| --- | --- | --- | --- |
+| KoboToolbox / SurveyCTO / Qualtrics | Baseline/endline surveys and data management | Built for structured data collection and auditability | Sampling and enumerator training matter as much as the platform |
+| NVivo / ATLAS.ti / Taguette | Coding interview transcripts and extracting themes | Makes qualitative analysis systematic and transparent | Keep transcripts anonymized; document coding decisions |
+| Python/R | Impact analysis (pre/post, subgroup comparisons) | Supports reproducible analysis and clear methodology | Requires careful design to avoid overclaiming impact |
+| Microsoft Copilot (Word/PowerPoint) | Drafting reports, lessons learned, presentations | Helps package findings for donors/community/org audiences | Ensure the narrative matches the data; avoid “polished but wrong” |
+| Notion / Confluence | Closure documentation, SOPs, handover checklists | Keeps institutional memory after the project ends | Define owners for post-project maintenance of the knowledge base |
+
+Tip: in evaluation, optimize for **credibility + ethics**—prioritize methodology, privacy, and a clear evidence trail.
+
 ## Reflection: Your Project Journey
 ### Block 14
 

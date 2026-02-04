@@ -322,6 +322,18 @@ Priya's planning had built in contingency and strategic partnerships. When costs
 
 ---
 
+**Tool alternatives for project execution**
+
+| Tool | Where it helps in execution | Why it fits this phase | Watch-outs |
+| --- | --- | --- | --- |
+| Microsoft Teams + Copilot / Slack | Team coordination, meeting notes, action items | Execution is communication-heavy; reduces admin overhead | Don’t rely on auto-notes alone; confirm decisions and owners |
+| KoboToolbox / ODK / CommCare | Field delivery tracking and structured reporting | Helps standardize data collection across villages | Needs training and QA so data stays consistent |
+| Trello / Asana / Jira | Day-to-day task tracking and blockers | Makes work visible and supports quick reprioritization | Too much process can slow field teams—keep it lightweight |
+| DeepL / Google Translate | Translating training materials and messages | Useful when multiple languages/dialects are involved | Always review with local speakers—tone and meaning can drift |
+| Otter / other transcription tools | Capturing learnings from calls and debriefs | Turns discussions into searchable notes | Consent and privacy: be explicit about recording/transcription |
+
+Tip: in execution, optimize for **speed + safeguarding**—tools should reduce friction while protecting participant privacy.
+
 ## Reflection: Your Execution Journey
 ### Block 13
 
