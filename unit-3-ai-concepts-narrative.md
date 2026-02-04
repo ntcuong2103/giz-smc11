@@ -465,6 +465,43 @@ Priya's journey from skepticism to confident AI use is relatable because it mirr
 
 ---
 
+## Quiz: Key Concepts of Artificial Intelligence
+
+1. **Generative AI tools (like ChatGPT) are best described as tools that:**
+	a) Only store and retrieve documents
+	b) Create new content (text, summaries, drafts) from patterns and prompts
+	c) Guarantee correct answers because they use the internet
+	d) Replace the need for human judgment in projects
+
+2. **Which pairing best matches an AI tool to a typical project manager task?**
+	a) Perplexity AI → drafting a persuasive email with tone control
+	b) ChatGPT → finding sourced, up-to-date research with citations
+	c) PMI Infinity → project management guidance and structured PM deliverables
+	d) Smartsheet → generating original explanations in natural language
+
+3. **True or False: To get the best outputs, you should include real participant names and confidential details in your AI prompts.**
+
+4. **A high-quality prompt usually includes:**
+	a) A single vague sentence with no context
+	b) Only keywords, no explanation
+	c) Context + goal + constraints (audience, tone, length) + requested format
+	d) The instruction “make it perfect”
+
+5. **Which is a realistic limitation of AI tools in social good project work?**
+	a) They can produce confident-sounding but incorrect information and must be reviewed
+	b) They cannot help with writing or planning at all
+	c) They always understand local culture better than community members
+	d) They prevent bias automatically
+
+**Answer Key:**
+	1. b) Create new content (text, summaries, drafts) from patterns and prompts
+	2. c) PMI Infinity → project management guidance and structured PM deliverables
+	3. False
+	4. c) Context + goal + constraints (audience, tone, length) + requested format
+	5. a) They can produce confident-sounding but incorrect information and must be reviewed
+
+---
+
 ## References
 
 OpenAI. (2024). *ChatGPT: AI assistant for writing and analysis*. Retrieved from https://chat.openai.com/

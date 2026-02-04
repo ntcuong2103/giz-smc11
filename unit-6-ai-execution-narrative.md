@@ -360,6 +360,43 @@ Execution is where plans meet reality. The best execution combines good planning
 
 ---
 
+## Quiz: AI in Project Execution
+
+1. **In project execution for social good work, success depends most on:**
+	a) Following the plan exactly with no changes
+	b) Having the most advanced software tools
+	c) Coordinating people and activities while adapting to community reality
+	d) Minimizing communication to save time
+
+2. **Priya’s daily coordination message template was useful because it:**
+	a) Replaced all team meetings
+	b) Provided quick, consistent, real-time information for decision-making
+	c) Guaranteed high attendance in every village
+	d) Eliminated the need for monitoring
+
+3. **True or False: If participation is low in one village, the best response is to insist on the same approach everywhere.**
+
+4. **AI tools support execution best when they:**
+	a) Replace conversations with community members
+	b) Decide which stakeholders matter without human input
+	c) Help draft communications, organize updates, and support problem-solving with human oversight
+	d) Guarantee that training materials will be culturally perfect
+
+5. **One effective way to sustain team morale during implementation is to:**
+	a) Celebrate progress and treat challenges as learning opportunities
+	b) Avoid discussing problems so the team stays positive
+	c) Focus only on hitting numeric targets
+	d) Blame coordinators when plans change
+
+**Answer Key:**
+	1. c) Coordinating people and activities while adapting to community reality
+	2. b) Provided quick, consistent, real-time information for decision-making
+	3. False
+	4. c) Help draft communications, organize updates, and support problem-solving with human oversight
+	5. a) Celebrate progress and treat challenges as learning opportunities
+
+---
+
 ## References
 
 Brinkerhoff, D. W., & Brinkerhoff, J. M. (2011). *Governance rents and the challenge of state building*. Journal of Public Administration Research and Theory, 21(S1), i125-i145.

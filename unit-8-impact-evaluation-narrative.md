@@ -441,6 +441,43 @@ Project closure, done well, isn't an ending. It's a transition—from implementa
 
 ---
 
+## Quiz: Impact Evaluation and Project Closure
+
+1. **A baseline and endline evaluation is designed to:**
+	a) Measure only how many activities were completed
+	b) Compare conditions before and after a project to understand what changed
+	c) Replace the need for monitoring during the project
+	d) Guarantee that results were caused only by the project
+
+2. **Sustainability in social good projects usually depends on:**
+	a) Writing a strong final report
+	b) Having a larger donor budget in the final month
+	c) Local ownership, community capacity, and durable institutional partnerships
+	d) Ending all activities immediately at month 24
+
+3. **True or False: Project closure is mainly administrative (budgets and reports); community recognition and transition planning are optional.**
+
+4. **A strong “lessons learned” document typically includes:**
+	a) What worked, what didn’t, unexpected outcomes, and recommendations for future work
+	b) Only success stories for publicity
+	c) Only financial records
+	d) Only a list of activities delivered
+
+5. **When communicating impact back to participants and communities, it is best to:**
+	a) Use technical evaluation language to show rigor
+	b) Share only numbers and avoid stories
+	c) Avoid sharing results to prevent misunderstandings
+	d) Use accessible language, acknowledge contributions, and reflect learning honestly
+
+**Answer Key:**
+	1. b) Compare conditions before and after a project to understand what changed
+	2. c) Local ownership, community capacity, and durable institutional partnerships
+	3. False
+	4. a) What worked, what didn’t, unexpected outcomes, and recommendations for future work
+	5. d) Use accessible language, acknowledge contributions, and reflect learning honestly
+
+---
+
 ## References
 
 Bamberger, M., Vaessen, J., & Raimondo, E. (2016). *Dealing with complexity in development evaluation: A practical approach*. SAGE Publications.

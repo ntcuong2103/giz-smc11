@@ -434,6 +434,43 @@ Monitoring, Priya learned, isn't about proving you're succeeding. It's about und
 
 ---
 
+## Quiz: AI in Project Monitoring and Control
+
+1. **Outputs and outcomes are different because:**
+	a) Outputs are long-term social changes; outcomes are activities completed
+	b) Outputs are what the project delivers; outcomes are what changes in people’s lives
+	c) Outputs are stories; outcomes are only numbers
+	d) They mean the same thing in monitoring
+
+2. **A comprehensive monitoring system tracks:**
+	a) Activities, outputs, outcomes, and impact
+	b) Only training attendance
+	c) Only budget spending
+	d) Only donor satisfaction
+
+3. **True or False: If you have strong quantitative data, qualitative stories are unnecessary.**
+
+4. **Segmenting monitoring data means you:**
+	a) Remove data from groups that look different
+	b) Collect only one indicator to simplify analysis
+	c) Analyze whether different subgroups (villages, ages, literacy levels) experience the project differently
+	d) Stop collecting stories to avoid complexity
+
+5. **Closing the feedback loop means:**
+	a) Filing reports on time
+	b) Creating a longer dashboard
+	c) Sharing only positive results with donors
+	d) Using monitoring insights to adapt implementation and improve outcomes
+
+**Answer Key:**
+	1. b) Outputs are what the project delivers; outcomes are what changes in people’s lives
+	2. a) Activities, outputs, outcomes, and impact
+	3. False
+	4. c) Analyze whether different subgroups (villages, ages, literacy levels) experience the project differently
+	5. d) Using monitoring insights to adapt implementation and improve outcomes
+
+---
+
 ## References
 
 Bamberger, M., Vaessen, J., & Raimondo, E. (2016). *Dealing with complexity in development evaluation: A practical approach*. SAGE Publications.

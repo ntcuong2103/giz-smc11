@@ -483,6 +483,43 @@ Project initiation—doing it well—is the foundation of everything that comes 
 
 ---
 
+## Quiz: AI in Project Initiation
+
+1. **The main goal of the project initiation phase is to:**
+	a) Start implementation as quickly as possible
+	b) Define the problem clearly, assess feasibility, and align stakeholders before planning
+	c) Finalize detailed budgets and procurement contracts
+	d) Collect only success stories for donors
+
+2. **Stakeholder mapping is most useful because it helps you:**
+	a) Avoid community engagement by focusing on donors
+	b) Identify only the project team roles
+	c) Understand who can influence the project, who is affected, and how to engage them
+	d) Replace the need for interviews and local conversations
+
+3. **True or False: AI-generated analysis is sufficient for decision-making, even without validating insights with community members.**
+
+4. **A Theory of Change explains:**
+	a) The project’s detailed weekly schedule
+	b) How activities and outputs are expected to lead to outcomes and impact
+	c) The exact number of participants who will attend each session
+	d) The legal compliance requirements for the project
+
+5. **If AI suggests a successful model from another region, the best next step is to:**
+	a) Copy it exactly to save time
+	b) Reject it because it is not local
+	c) Use it only for donor communications
+	d) Adapt it to your context and test assumptions through stakeholder and community validation
+
+**Answer Key:**
+	1. b) Define the problem clearly, assess feasibility, and align stakeholders before planning
+	2. c) Understand who can influence the project, who is affected, and how to engage them
+	3. False
+	4. b) How activities and outputs are expected to lead to outcomes and impact
+	5. d) Adapt it to your context and test assumptions through stakeholder and community validation
+
+---
+
 ## References
 
 Choo, F., Tan, K. B., & Knowles, J. (2018). *Financial inclusion: An introduction for policy makers*. Asian Development Bank.

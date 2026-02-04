@@ -456,6 +456,43 @@ A good plan, Priya realized, isn't about predicting the future perfectly. It's a
 
 ---
 
+## Quiz: AI in Project Planning
+
+1. **A Work Breakdown Structure (WBS) is mainly used to:**
+    a) Track project attendance day-by-day
+    b) Break a project into manageable components so work can be planned and assigned
+    c) Replace the need for a Theory of Change
+    d) Guarantee that a project will face no risks
+
+2. **A realistic project timeline for community-based work should:**
+    a) Assume tasks happen exactly as planned
+    b) Exclude relationship-building because it is not “work”
+    c) Include local realities like seasons, travel, trust-building, and likely delays
+    d) Focus only on donor reporting deadlines
+
+3. **True or False: Risk management is complete once you write a risk list; ongoing monitoring and mitigation are optional.**
+
+4. **AI is most helpful in planning when it:**
+    a) Produces a final plan that should not be changed
+    b) Eliminates the need for team discussions
+    c) Automatically knows the correct cultural approach for every community
+    d) Provides a structured starting point that you refine using local knowledge and team input
+
+5. **Which is an example of a practical coordination system during planning and implementation?**
+    a) Regular team check-ins with a consistent update template
+    b) Waiting until the end of the month to collect all updates
+    c) Only communicating through long written reports
+    d) Avoiding communication to reduce overhead
+
+**Answer Key:**
+    1. b) Break a project into manageable components so work can be planned and assigned
+    2. c) Include local realities like seasons, travel, trust-building, and likely delays
+    3. False
+    4. d) Provides a structured starting point that you refine using local knowledge and team input
+    5. a) Regular team check-ins with a consistent update template
+
+---
+
 ## References
 
 Kerzner, H. (2017). *Project management: A systems approach to planning, scheduling, and controlling* (12th ed.). John Wiley & Sons.
